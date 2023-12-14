@@ -14,7 +14,7 @@ Technical Informations:
 <ul>
  <li>Docker engine running is <b>needed</b></li>
  <li><b>Mongo</b> is used as database. No need to install it.</li>
- <li>The application is containerized, run on top of mongo image.</li>
+ <li>The application is containerized, built on top of mongo image.</li>
  <li><b>Swagger</b> is used for API documentation <b>http://localhost:8080/swagger-ui.html</b></li>
  <li>Maven project</li>
  <li>It's possible to run it via <b>spring-boot:run</b></li>
